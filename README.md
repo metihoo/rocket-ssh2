@@ -37,7 +37,7 @@
 برای نصب دستور زیر را وارد کنید<br>
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/rocket-ap/rocket-ssh/master/install.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/metihoo/rocket-ssh2/master/install.sh --ipv4)
 ```
 
 # آپدیت پنل ادمین
@@ -45,12 +45,12 @@ bash <(curl -Ls https://raw.githubusercontent.com/rocket-ap/rocket-ssh/master/in
 نیازی به نصب مجدد نیست . با این روش فقط پنل ادمین آپدیت می شود . در این روش اطلاعات دیتابیس تغییر نمی کند
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/rocket-ap/rocket-ssh/master/update-panel.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/metihoo/rocket-ssh2/master/update-panel.sh --ipv4)
 ```
 ## فعال سازی SSL
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/rocket-ap/rocket-ssh/master/ssl.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/metihoo/rocket-ssh2/master/ssl.sh --ipv4)
 ```
 
 # بلاک کردن آی پی های ایران
@@ -58,12 +58,12 @@ bash <(curl -Ls https://raw.githubusercontent.com/rocket-ap/rocket-ssh/master/ss
 جهت بلاک کردن آی پی های ایران از دستور زیر استفاده کنید
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/rocket-ap/rocket-ssh/master/block-ir-ip.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/metihoo/rocket-ssh2/master/block-ir-ip.sh --ipv4)
 ```
 
 # کانال تلگرام
 
-https://t.me/rocketpanel
+
 
 # محیط نرم افزار
 
